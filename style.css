@@ -1,0 +1,13 @@
+.big-h {
+    font-family: 'Garamond' 'Times New Roman', Times, serif;
+    color: white;
+    background-color: crimson;
+}
+
+li {
+    font-style: italic;
+}
+
+.ingredients {
+    text-decoration-line: underline;
+}
